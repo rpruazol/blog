@@ -1,0 +1,21 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Ramblings"
+theme = "m10c"
+[params]
+  author = "Ray Ruazol"
+  description = "\"Blog for mostly code and code accessories\""
+  menu_item_separator = "=="
+
+[params.style]
+  darkColor = "#212121"
+  primaryColor = "#8A4C8A"
+
+[[params.social]]
+  icon = "github"
+  name = "Github"
+  url = "https://github.com/rpruazol"
+[[params.social]]
+  icon = "twitter"
+  name = "Twitter"
+  url = "https://twitter.com/rooahzawl"
