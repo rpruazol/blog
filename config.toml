@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://www.thoughtsin.io/"
 languageCode = "en-us"
 title = "Ramblings"
 theme = "m10c"
